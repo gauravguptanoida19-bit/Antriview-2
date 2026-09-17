@@ -2,6 +2,7 @@
 
 > **"Your AI-powered technical interview simulator."**
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-antriviewai.vercel.app-brightgreen?style=flat&logo=vercel)](https://antriviewai.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-v20+-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://react.dev/)
@@ -17,13 +18,15 @@ Engineered as a capstone B.Tech final-year project, SDE portfolio piece, and pro
 
 ---
 
-## Live Demo
+## 🌐 Live Demo
 
-- **Production Live Demo URL**: `https://your-live-demo-url.com` *(Placeholder — configure upon cloud deployment)*
+Experience the live application deployed on Vercel:
+👉 **[https://antriviewai.vercel.app](https://antriviewai.vercel.app)** (Dashboard: [https://antriviewai.vercel.app/dashboard](https://antriviewai.vercel.app/dashboard))
+
+- **Instant 1-Click Access**: Open the live site and click **"Explore Demo"** or **"1-Click Demo Candidate Login"**.
 - **Demo Credentials**:
   - **Email**: `demo@antiview.dev`
   - **Password**: `DemoPassword123!`
-  - *(Or use the instant 1-Click "Demo Candidate Login" button on the Sign-In page)*
 
 ---
 

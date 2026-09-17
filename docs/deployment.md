@@ -64,7 +64,7 @@ Frontend (Vercel / Netlify) ---> Backend (Render / Railway / Fly.io) ---> Databa
      ]
    }
    ```
-4. Click **Deploy**. Your application will be live at `https://your-app.vercel.app`.
+4. Click **Deploy**. Your application is live at **[https://antriviewai.vercel.app](https://antriviewai.vercel.app)**.
 
 ---
 

@@ -18,10 +18,12 @@ Engineered as a capstone B.Tech final-year project, SDE portfolio piece, and pro
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Website
 
-Experience the live application deployed on Vercel:
-👉 **[https://antriviewai.vercel.app](https://antriviewai.vercel.app)** (Dashboard: [https://antriviewai.vercel.app/dashboard](https://antriviewai.vercel.app/dashboard))
+Experience the live application deployed and accessible worldwide:
+👉 **[https://gauravguptanoida19-bit.github.io/Antriview-2/](https://gauravguptanoida19-bit.github.io/Antriview-2/)**
+
+*(Also deployed on Vercel: [https://antriview-2.vercel.app](https://antriview-2.vercel.app))*
 
 - **Instant 1-Click Access**: Open the live site and click **"Explore Demo"** or **"1-Click Demo Candidate Login"**.
 - **Demo Credentials**:
